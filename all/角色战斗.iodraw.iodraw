@@ -11,13 +11,13 @@
           <mxGeometry x="300" y="-640" width="440" height="360" as="geometry" />
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-3" value="队友&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="-760" width="340" height="400" as="geometry" />
+          <mxGeometry x="-740" y="-760" width="340" height="400" as="geometry" />
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="-160" width="800" height="360" as="geometry" />
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-6" value="楼层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="-670" width="440" height="300" as="geometry" />
+          <mxGeometry x="-280" y="-660" width="440" height="300" as="geometry" />
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-320" y="240" width="1480" height="400" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-19" value="建筑类物品&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;创建时候，加上被破坏后的样子&lt;/div&gt;&lt;div&gt;并且“房屋”类建筑，大多都采用最好一样格式&lt;/div&gt;&lt;div&gt;（比如便于“立体机动装置”使用）&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="-120" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MIPIi6HpFo6y0Yq3-4Qs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
