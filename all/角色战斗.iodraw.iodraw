@@ -46,7 +46,7 @@
         <mxCell id="t8TNKTi17qgsoEdb1zvO-19" value="建筑类物品&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;创建时候，加上被破坏后的样子&lt;/div&gt;&lt;div&gt;并且“房屋”类建筑，大多都采用最好一样格式&lt;/div&gt;&lt;div&gt;（比如便于“立体机动装置”使用）&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="-120" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="MIPIi6HpFo6y0Yq3-4Qs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MIPIi6HpFo6y0Yq3-4Qs-1" value="镜头震动&lt;div&gt;天气滤镜&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-280" width="360" height="440" as="geometry" />
         </mxCell>
       </root>
