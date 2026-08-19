@@ -25,8 +25,8 @@
         <mxCell id="t8TNKTi17qgsoEdb1zvO-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-300" y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t8TNKTi17qgsoEdb1zvO-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#f8cecc;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-280" width="30" height="60" as="geometry" />
+        <mxCell id="t8TNKTi17qgsoEdb1zvO-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
