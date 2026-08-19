@@ -40,8 +40,11 @@
             <mxPoint x="630" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8TNKTi17qgsoEdb1zvO-18" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="t8TNKTi17qgsoEdb1zvO-18" value="房屋，树木&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;角色范围伤害会破坏建筑，变成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-120" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="t8TNKTi17qgsoEdb1zvO-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
