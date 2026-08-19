@@ -11,7 +11,7 @@
           <mxGeometry x="-240" y="-550" width="400" height="230" as="geometry" />
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-3" value="队友&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="-240" width="340" height="400" as="geometry" />
+          <mxGeometry x="-740" y="-400" width="340" height="400" as="geometry" />
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-4" value="房屋，树木" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="-720" width="440" height="400" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="t8TNKTi17qgsoEdb1zvO-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-300" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t8TNKTi17qgsoEdb1zvO-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-280" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
