@@ -16,8 +16,8 @@
         <mxCell id="t8TNKTi17qgsoEdb1zvO-4" value="房屋，树木" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="440" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="t8TNKTi17qgsoEdb1zvO-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="t8TNKTi17qgsoEdb1zvO-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="440" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
